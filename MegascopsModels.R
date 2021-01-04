@@ -6,6 +6,8 @@ library(rangeModelMetadata)
 workingDirectory <- "~/Dropbox/UFBISeedGrant/Megascops/NewAnalysis/"
 setwd(workingDirectory)
 
+#Test to see if RStudio push pull is working
+
 #Basic range model metadata information
 rmmAdelpha <- rmmTemplate();
 rmmAdelpha <- rmmAutofillPackageCitation(rmmAdelpha, c('raster', 'ENMeval', 

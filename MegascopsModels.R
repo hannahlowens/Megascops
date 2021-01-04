@@ -3,7 +3,7 @@ library(ENMeval)
 library(biomod2)
 library(rangeModelMetadata)
 
-workingDirectory <- "/home/howens/Adelpha/"
+workingDirectory <- "~/Dropbox/UFBISeedGrant/Megascops/NewAnalysis/"
 setwd(workingDirectory)
 
 #Basic range model metadata information
